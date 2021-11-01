@@ -28,5 +28,4 @@ Analysis of the PyBer data is summarized in the chart above in Image 1. The anal
 
 ## Summary
 Given how city types are typically defined by population density, Urban cities have more people thus more drivers and the destinations are usually closer which accounts for the huge number of drivers and number of fares. This also accounts for the low fare per driver stats. Urban cities have 30x more drivers than rural areas, 5x more than Suburban, and destinations are shorter. Urban drivers will have more rides that cost less (shorter trips) than the longer rides from Suburban and Rural areas where destinations are further apart.
-The fluctuations for Urban cities could be due to events such as spring break or holidays. The same could be said for why all three city types saw a peak during the same time in February. Learning the location of these cities could help to understand why these peaks happened. 
-
+The fluctuations for Urban cities could be due to events such as spring break or holidays. The same could be said for why all three city types saw a peak during the same time in February. Learning the location of these cities could help to understand why these peaks happened.
